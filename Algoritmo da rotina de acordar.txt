@@ -2,21 +2,24 @@
 
 
 1. O despertador toca.
-2. Eu abro os olhos lentamente.
-3. Eu desligo o despertador.
-4. Eu me espreguiço.
-5. Eu me levanto da cama.
-6. Eu vou até o banheiro.
-7. Eu lavo o rosto e escovo os dentes.
-8. Eu me visto para começar o dia.
-9. Eu faço o café da manhã.
-10. Eu me organizo para o trabalho.
-11. Eu checo se não esqueci de nada para começar a rotina.
-12. Eu vou até a porta.
-1. Se a porta estiver fechada.
-2. Eu pego a chave e abro a porta.
-13. A porta está aberta.
-14. Eu saio para o trabalho.
-
+    1. Eu estou de Folga? Sim
+    2. Desligo o despertador
+    3. Volto a dormir.
+2. Eu não estou de folga
+    1. Eu abro os olhos lentamente.
+    2. Eu desligo o despertador.
+    3. Eu me espreguiço.
+    4. Eu me levanto da cama.
+    5. Eu vou até o banheiro.
+    6. Eu lavo o rosto e escovo os dentes.
+    7. Eu me visto para começar o dia.
+    8. Eu faço o café da manhã.
+    9. Eu me organizo para o trabalho.
+    10. Eu checo se não esqueci de nada para começar a rotina.
+    11. Eu vou até a porta.
+        1. Se a porta estiver fechada.
+        2. Eu pego a chave e abro a porta.
+12. A porta está aberta.
+13. Eu saio para o trabalho.
 
 Fim
