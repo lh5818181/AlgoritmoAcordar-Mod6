@@ -19,7 +19,7 @@
     11. Eu vou até a porta.
         1. Se a porta estiver fechada.
         2. Eu pego a chave e abro a porta.
-12. A porta está aberta.
-13. Eu saio para o trabalho.
+2. A porta está aberta.
+3. Eu saio para o trabalho.
 
 Fim
